@@ -1,5 +1,5 @@
 [
-  { "helyezes": 1, "nev": "Lando Norris", "csapat": "McLaren", "pont": 423 },
+  { "helyezes": 1, "nev": "Lando Norris", "szarmazas": "GBR", "csapat": "McLaren", "pont": 423 },
   { "helyezes": 2, "nev": "Max Verstappen", "csapat": "Red Bull Racing", "pont": 421 },
   { "helyezes": 3, "nev": "Oscar Piastri", "csapat": "McLaren", "pont": 410 },
   { "helyezes": 4, "nev": "George Russell", "csapat": "Mercedes", "pont": 319 },
